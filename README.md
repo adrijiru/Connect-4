@@ -49,3 +49,7 @@ Pieces are shown as
 - Highlight the 4 in-a-row sequence.
 - Refreshing the screen after every turn.
 - Making a menu and a visually appealing gamemplay.
+
+## License
+This project is licensed under the [CC BY-NC-ND 4.0 License](http://creativecommons.org/licenses/by-nc-nd/4.0/).  
+You may read and share the code for educational purposes, but modification and commercial use are not allowed.
