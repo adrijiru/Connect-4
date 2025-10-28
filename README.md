@@ -42,7 +42,7 @@ Pieces are shown as
 - 🟦 Player 1
 - 🟥 Player 2/AI
 
-## 🧰 Future Imporvements
+## 🧰 Future Improvements
 - Code optimization
 - Implement difficulty levels (depth-based)
 - Save and load game states.
